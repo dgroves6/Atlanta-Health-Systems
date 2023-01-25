@@ -1,5 +1,5 @@
 # Atlanta-Health-Systems
-COVID Results Document Processing
+COVID-19 Results Processing and Spreadsheet Maintenance
 
 
 ## ahs_extract_results
